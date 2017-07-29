@@ -1,31 +1,55 @@
+* 170729
+
+## Understanding LSTM Networks
+Source: [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+LSTM的一篇解释性文章 适合懒得看原paper的人去看
+
+## Sequence to Sequence Learning with Neural Networks
+Source: [https://arxiv.org/pdf/1409.3215.pdf](https://arxiv.org/pdf/1409.3215.pdf)
+
+seq2seq的原paper/ 一个NLP模型 将顺序输入变为顺序输出
+
+## A Neural Attention Model for Abstractive Sentence Summarization
+Source: [https://arxiv.org/pdf/1509.00685.pdf](https://arxiv.org/pdf/1509.00685.pdf)
+
+attention model的原paper/ 一个NLP模型 和上面一篇文章合在一起可以训练一个summarization model
+
 * All access dates below: 170727
 
 ## Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 Source: [https://arxiv.org/pdf/1502.03167.pdf](https://arxiv.org/pdf/1502.03167.pdf)
+
 很经典的讲batch normalization的文章.
 
 ## Generative Adversarial Networks
 Source: [https://arxiv.org/pdf/1406.2661.pdf](https://arxiv.org/pdf/1406.2661.pdf)
+
 不多说了，最经典的GAN原著。
 
 ## Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
 Source: [http://arxiv.org/pdf/1511.06434.pdf](https://arxiv.org/pdf/1511.06434.pdf)
+
 DD2424 project的启发之作。队友用这篇文章实现了最基本的照片解码
 
 ## Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
 Source: [https://arxiv.org/pdf/1703.10593.pdf](https://arxiv.org/pdf/1703.10593.pdf)
+
 同上。这两篇文章中autoencoder的思想启发我们不少
 
 ## Towards Principled Methods for Training Generative Adversarial Networks
 Source: [https://arxiv.org/pdf/1701.04862.pdf](https://arxiv.org/pdf/1701.04862.pdf)
+
 WGAN系列的第一篇. 分析了WGAN出现以前各种GAN变体的优缺点和共同缺点 并且从共同的不足之处引出了改进
 
 ## Wasserstein GAN
 Source: [https://arxiv.org/pdf/1701.07875.pdf](https://arxiv.org/pdf/1701.07875.pdf)
+
 WGAN系列的第二篇 顺势推出了WGAN 天亮了！！
 
 ## Random Forests
 Source: [https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf)
+
 breiman大师对随机森林算法的讨论。DD2434 project即是对这篇文章的复现
 
 ## infovis网站上的所有文章
@@ -50,6 +74,7 @@ Source: [http://m.cottonlion.com/viktoria/infoart/pub/ambient-infovis.pdf](http:
 Source: [http://innovis.cpsc.ucalgary.ca/innovis/uploads/Courses/InformationVisualizationDetails2009/Pousman2007.pdf](http://innovis.cpsc.ucalgary.ca/innovis/uploads/Courses/InformationVisualizationDetails2009/Pousman2007.pdf)
 Source: [http://triton.cc.gatech.edu/hci-seminar/uploads/1/The%20Challenge%20of%20Information%20Visualization%20Evaluation.pdf](http://triton.cc.gatech.edu/hci-seminar/uploads/1/The%20Challenge%20of%20Information%20Visualization%20Evaluation.pdf)
 Source: [http://cvs.cs.umd.edu/~ben/papers/Shneiderman2006Strategies.pdf](http://cvs.cs.umd.edu/~ben/papers/Shneiderman2006Strategies.pdf)
+
 DH2321那门课上完后感觉基础知识（概念）缺乏 就重新看了几篇课上reading要求的论文 因为上课的时候也没认真看
 
 ## Ullman: Database System: the Complete Book (3rd Edition)
@@ -57,6 +82,7 @@ DH2321那门课上完后感觉基础知识（概念）缺乏 就重新看了几�
 
 ## An Introduction to Tensors for Students of Physics and Engineering
 Source: [https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20020083040.pdf](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20020083040.pdf)
+
 介绍张量的文章。
 
 ## Predicting Multiple Risky Behaviours via Multimedia Content
@@ -65,14 +91,17 @@ Source: [https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20020083040.pdf](
 
 ## Variational Inference: A Review forStatisticians
 Source: [https://arxiv.org/pdf/1601.00670v4.pdf](https://arxiv.org/pdf/1601.00670v4.pdf)
+
 对VI算法的深入探讨 paperweekly的周常文章 由于进群太晚/时间所限就没有看完
 
 ## A Conceptual Introduction to Hamiltonian Monte Carlo
 Source: [https://arxiv.org/pdf/1701.02434.pdf](https://arxiv.org/pdf/1701.02434.pdf)
+
 用物理手法讨论了HMC算法的基本原理。
 
 ## Data characterization for intelligent graphics presentation
 Source: [http://dl.acm.org/citation.cfm?id=97273](http://dl.acm.org/citation.cfm?id=97273)
+
 mario提供的文章，讲了如何从数据集中提炼出有效的数据可视化形式。看的比较粗略
 
 * All access dates below: 170723
