@@ -2,6 +2,7 @@
 
 ## Distributed Representations of Sentences and Documents
 Source: [cs.stanford.edu/~quocle/paragraph_vector.pdf](cs.stanford.edu/~quocle/paragraph_vector.pdf)
+
 介绍了用RNN训练不定长度样本的方法 提供了训练PPTX features的inspiration
 
 * 170729
@@ -61,24 +62,33 @@ breiman大师对随机森林算法的讨论。DD2434 project即是对这篇文�
 ## infovis网站上的所有文章
 
 * Introduction to Information Visualisation
-* The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations
-* Visual Mapping – The Elements of Information Visualization
-* A Knowledge Task-Based Framework for Design and Evaluation of Information Visualizations
-* Parallel Coordinates: A tool for Visualizing Multi-dimensional Geometry
-* Angular Brushing of Extended Parallel Coordinates
-* Between Aesthetics and Utility: Designing Ambient Information Visualizations
-* Casual Information Visualization: Depictions of Data in Everyday Life
-* The Challenge of Information Visualization Evaluation
-* Strategies for Evaluating Information Visualization Tools: Multi-dimensional In-depth Long-term Case Studies
 Source: [http://www.dti.supsi.ch/~mazza/infovis_introduction.pdf](http://www.dti.supsi.ch/~mazza/infovis_introduction.pdf)
+
+* The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations
 Source: [http://drum.lib.umd.edu/bitstream/1903/5784/1/TR_96-66.pdf](http://drum.lib.umd.edu/bitstream/1903/5784/1/TR_96-66.pdf)
+
+* Visual Mapping – The Elements of Information Visualization\
 Source: [http://www.cs.ubc.ca/~tmm/courses/533-09/morereadings/amar05.pdf](http://www.cs.ubc.ca/~tmm/courses/533-09/morereadings/amar05.pdf)
+
+* A Knowledge Task-Based Framework for Design and Evaluation of Information Visualizations
 Source: [http://www.cs.kent.edu/~jmaletic/cs63903/papers/Amar04.pdf](http://www.cs.kent.edu/~jmaletic/cs63903/papers/Amar04.pdf)
+
+* Parallel Coordinates: A tool for Visualizing Multi-dimensional Geometry
 Source: [http://www.ifs.tuwien.ac.at/~mlanzenberger/teaching/ps/ws04/stuff/auth/00146402.pdf](http://www.ifs.tuwien.ac.at/~mlanzenberger/teaching/ps/ws04/stuff/auth/00146402.pdf)
+
+* Angular Brushing of Extended Parallel Coordinates
 Source: [https://www.researchgate.net/profile/Florian_Ledermann/publication/2557016_Angular_Brushing_of_Extended_Parallel_Coordinates/links/02e7e52569d4febed4000000.pdf](https://www.researchgate.net/profile/Florian_Ledermann/publication/2557016_Angular_Brushing_of_Extended_Parallel_Coordinates/links/02e7e52569d4febed4000000.pdf)
+
+* Between Aesthetics and Utility: Designing Ambient Information Visualizations
 Source: [http://m.cottonlion.com/viktoria/infoart/pub/ambient-infovis.pdf](http://m.cottonlion.com/viktoria/infoart/pub/ambient-infovis.pdf)
+
+* Casual Information Visualization: Depictions of Data in Everyday Life
 Source: [http://innovis.cpsc.ucalgary.ca/innovis/uploads/Courses/InformationVisualizationDetails2009/Pousman2007.pdf](http://innovis.cpsc.ucalgary.ca/innovis/uploads/Courses/InformationVisualizationDetails2009/Pousman2007.pdf)
+
+* The Challenge of Information Visualization Evaluation
 Source: [http://triton.cc.gatech.edu/hci-seminar/uploads/1/The%20Challenge%20of%20Information%20Visualization%20Evaluation.pdf](http://triton.cc.gatech.edu/hci-seminar/uploads/1/The%20Challenge%20of%20Information%20Visualization%20Evaluation.pdf)
+
+* Strategies for Evaluating Information Visualization Tools: Multi-dimensional In-depth Long-term Case Studies
 Source: [http://cvs.cs.umd.edu/~ben/papers/Shneiderman2006Strategies.pdf](http://cvs.cs.umd.edu/~ben/papers/Shneiderman2006Strategies.pdf)
 
 DH2321那门课上完后感觉基础知识（概念）缺乏 就重新看了几篇课上reading要求的论文 因为上课的时候也没认真看
