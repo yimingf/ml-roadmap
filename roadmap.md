@@ -1,11 +1,11 @@
-* 170804
+# 170804
 
 ## Distributed Representations of Sentences and Documents
 Source: [cs.stanford.edu/~quocle/paragraph_vector.pdf](cs.stanford.edu/~quocle/paragraph_vector.pdf)
 
 介绍了用RNN训练不定长度样本的方法 提供了训练PPTX features的inspiration
 
-* 170729
+# 170729
 
 ## Understanding LSTM Networks
 Source: [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -22,7 +22,7 @@ Source: [https://arxiv.org/pdf/1509.00685.pdf](https://arxiv.org/pdf/1509.00685.
 
 attention model的原paper/ 一个NLP模型 和上面一篇文章合在一起可以训练一个summarization model
 
-* All access dates below: 170727
+# All access dates below: 170727
 
 ## Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 Source: [https://arxiv.org/pdf/1502.03167.pdf](https://arxiv.org/pdf/1502.03167.pdf)
@@ -120,7 +120,7 @@ Source: [http://dl.acm.org/citation.cfm?id=97273](http://dl.acm.org/citation.cfm
 
 mario提供的文章，讲了如何从数据集中提炼出有效的数据可视化形式。看的比较粗略
 
-* All access dates below: 170723
+# All access dates below: 170723
 
 ## Multilingual Metaphor Processing: Experiments with Semi-Supervised and Unsupervised Learning
 用半监督方法处理“比喻”的语义 需要找出哪种监督“规模”对于训练最好 最后证明了一种低监督环境模型很有效。对英文 西班牙文和俄文进行了测试
