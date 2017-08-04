@@ -1,3 +1,9 @@
+* 170804
+
+## Distributed Representations of Sentences and Documents
+Source: [cs.stanford.edu/~quocle/paragraph_vector.pdf](cs.stanford.edu/~quocle/paragraph_vector.pdf)
+介绍了用RNN训练不定长度样本的方法 提供了训练PPTX features的inspiration
+
 * 170729
 
 ## Understanding LSTM Networks
@@ -53,7 +59,7 @@ Source: [https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf](https://ww
 breiman大师对随机森林算法的讨论。DD2434 project即是对这篇文章的复现
 
 ## infovis网站上的所有文章
----
+
 * Introduction to Information Visualisation
 * The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations
 * Visual Mapping – The Elements of Information Visualization
