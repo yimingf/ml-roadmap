@@ -1,3 +1,10 @@
+# 170812
+
+## Learning to Generate Posters of Scientific Papers
+Source: [http://cs.brown.edu/~ls/Publications/aaai2016qiang.pdf](http://cs.brown.edu/~ls/Publications/aaai2016qiang.pdf)
+
+介绍了一种从论文的text和image生成poster的方法 兼具了信息的可传达性与美观性
+
 # 170804
 
 ## Distributed Representations of Sentences and Documents
