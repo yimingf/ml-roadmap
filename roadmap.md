@@ -1,4 +1,4 @@
-# 170812
+# 170811
 
 ## Learning to Generate Posters of Scientific Papers
 Source: [http://cs.brown.edu/~ls/Publications/aaai2016qiang.pdf](http://cs.brown.edu/~ls/Publications/aaai2016qiang.pdf)
