@@ -1,3 +1,10 @@
+# 170902
+
+## Vega-Lite: A Grammar of Interactive Graphics
+Source: [http://idl.cs.washington.edu/files/2017-VegaLite-InfoVis.pdf](http://idl.cs.washington.edu/files/2017-VegaLite-InfoVis.pdf)
+
+一个infovis 语法描述的论文.
+
 # 170811
 
 ## Learning to Generate Posters of Scientific Papers
