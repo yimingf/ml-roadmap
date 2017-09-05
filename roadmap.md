@@ -1,3 +1,15 @@
+# 170905
+
+## Intro to Recommender System Handbook
+Source: [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.395.9161&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.395.9161&rep=rep1&type=pdf)
+
+翔实介绍RS发展历史和各个方面的书.
+
+## GroupLens: An Open Architecture for Collaborative Filtering of Netnews
+Source: [http://ccs.mit.edu/papers/CCSWP165.html](http://ccs.mit.edu/papers/CCSWP165.html)
+
+协同过滤(CF)的开山之作.
+
 # 170902
 
 ## Vega-Lite: A Grammar of Interactive Graphics
