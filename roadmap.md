@@ -1,3 +1,32 @@
+# 170906
+
+## Crowdsourcing Graphical Perception: Using Mechanical Turk to Assess Visualization Design
+Source: [http://vis.stanford.edu/files/2010-MTurk-CHI.pdf](http://vis.stanford.edu/files/2010-MTurk-CHI.pdf)
+
+一篇证明user study (crowdsourcing) 的方法有效的paper. 适合idea evaluation通过之后读
+
+## Variables on Scatterplots Look More Highly Correlated When the Scales Are Increased
+Source: [http://statweb.stanford.edu/~cgates/PERSI/papers/scatter82.pdf](http://statweb.stanford.edu/~cgates/PERSI/papers/scatter82.pdf)
+
+judged association 和 correlation coefficient 不同的地方在于: judged association 在散点图上表示时 很容易被散点图的scale影响 从而显得更加相关
+
+适合idea evaluation 通过之后读
+
+## Automatic Stylistic Manga Layout
+Source: [http://visal.cs.cityu.edu.hk/static/pubs/journal/siggraphasia2012-layout.pdf](http://visal.cs.cityu.edu.hk/static/pubs/journal/siggraphasia2012-layout.pdf)
+
+一种自动从图片序列生成漫画风格layout的方法
+
+## Recommender System
+Source: [https://www.ischool.utexas.edu/~i385d/readings/Resnick_Recommender_97.pdf](https://www.ischool.utexas.edu/~i385d/readings/Resnick_Recommender_97.pdf)
+
+一篇综述
+
+## Collaborative Case-Based Recommender Systems
+Source: [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.4936&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.4936&rep=rep1&type=pdf)
+
+CBR. 一些公式值得一看
+
 # 170905
 
 ## Intro to Recommender System Handbook
